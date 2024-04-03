@@ -14,7 +14,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url('../ukol/f1_background.png');
+    background-image: url('f1_background.png');
     opacity: 0.2; 
     top: 0;
     left: 0;
