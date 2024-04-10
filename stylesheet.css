@@ -48,3 +48,16 @@ p{
     padding-left: 10px;
     padding-right: 10px;
 }
+.button:hover{
+    background-color: rgb(6, 17, 132);
+    color: white;
+
+}
+
+.main_site_image{
+    max-width: 100%;
+    border-radius: 5px ;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
