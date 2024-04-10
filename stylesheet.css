@@ -54,10 +54,9 @@ p{
     color: white;
 
 }
-
 .main_site_image{
     max-width: 100%;
-    border-radius: 5px ;
+    border-radius: 10px ;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
